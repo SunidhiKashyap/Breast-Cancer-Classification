@@ -28,3 +28,5 @@ https://archive.ics.uci.edu/ml/datasets/breast+cancer+wisconsin+%28original%29
 ### Results
 
 ![alt text](https://github.com/SunidhiKashyap/Breast-Cancer-Classification/blob/main/ModelAccuracy.jpg?raw=true)
+
+![alt text](https://github.com/SunidhiKashyap/Breast-Cancer-Classification/blob/main/ModelLoss.jpg?raw=true)
