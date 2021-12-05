@@ -19,5 +19,10 @@ https://archive.ics.uci.edu/ml/datasets/breast+cancer+wisconsin+%28original%29
 4. ReLU activation function
 5. Sigmoid function
 
-# Results
+### This Repository includes
+- Source code for importing the data set from UCI repository.
+- Souce code to build the deep learning model.
+- Source code to compoile and get the results.
+- Google collab notebook with the entire code executed in it.
+### Results
 
