@@ -12,5 +12,12 @@ https://archive.ics.uci.edu/ml/datasets/breast+cancer+wisconsin+%28original%29
 5. Matplotlib
 6. Seaborn
 
+### Techniques Used
+1. Convolutional Neural Networks
+2. Batch Normalization
+3. Dropout
+4. ReLU activation function
+5. Sigmoid function
+
 # Results
 
